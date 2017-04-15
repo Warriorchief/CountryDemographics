@@ -1,0 +1,117 @@
+Oman,8.45
+Lebanon,5.99
+Kuwait,4.81
+Qatar,4.72
+Iraq,3.31
+Jordan,3.06
+Afghanistan,3.02
+Saudi Arabia,2.32
+Timor-Leste,2.28
+Tajikistan,2.24
+Papua New Guinea,2.14
+Pakistan,2.11
+South Sudan,4.09
+Niger,4
+Burundi,3.34
+Chad,3.31
+Angola,3.3
+Uganda,3.27
+Gambia,3.24
+Democratic Republic of the Congo,3.17
+Tanzania,3.16
+Senegal,3.1
+Malawi,3.06
+Zambia,3.05
+Mali,2.98
+Equatorial Guinea,2.96
+Burkina Faso,2.94
+Mozambique,2.8
+Madagascar,2.79
+Guinea,2.71
+Benin,2.69
+Nigeria,2.67
+Togo,2.67
+Kenya,2.65
+Liberia,2.58
+Yemen,2.57
+Congo,2.56
+Ethiopia,2.53
+Cameroon,2.51
+Mauritania,2.49
+Comoros,2.42
+Guinea-Bissau,2.42
+Rwanda,2.41
+Ivory Coast,2.4
+Ghana,2.39
+Somalia,2.37
+Namibia,2.28
+Gabon,2.25
+Sierra Leone,2.22
+Zimbabwe,2.21
+Egypt,2.18
+Eritrea,2.17
+Sudan,2.16
+Sao Tome and Principe,2.16
+French Guiana,2.78
+Vanuatu,2.27
+Belize,2.22
+Luxembourg,2.21
+Guatemala,2.08
+Solomon Islands,2.07
+Monaco,0.48
+France,0.45
+Denmark,0.42
+Armenia,0.36
+Austria,0.36
+Netherlands,0.35
+Malta,0.32
+Ireland,0.31
+Macedonia,0.16
+Slovenia,0.15
+Montenegro,0.12
+Czech Republic,0.07
+Italy,0.07
+Slovakia,0.07
+Germany,0.06
+Russia,0.04
+Vatican City,0.03
+Poland,0.02
+Belarus,0.01
+Albania,-0.04
+Moldova,-0.08
+Bosnia and Herzegovina,-0.13
+Spain,-0.21
+Estonia,-0.3
+Hungary,-0.32
+Croatia,-0.36
+Ukraine,-0.36
+Greece,-0.4
+Portugal,-0.45
+Serbia,-0.47
+Bulgaria,-0.71
+Romania,-0.79
+Latvia,-1.18
+Lithuania,-1.63
+Andorra,-3.61
+South Korea,0.48
+Trinidad and Tobago,0.48
+Dominica,0.42
+Tonga,0.42
+Grenada,0.41
+Mauritius,0.4
+Nauru,0.39
+Jamaica,0.38
+Thailand,0.38
+Guyana,0.36
+Uruguay,0.34
+Barbados,0.33
+El Salvador,0.29
+Marshall Islands,0.21
+Tuvalu,0.18
+Micronesia,0.16
+Cuba,0.14
+Libya,0.04
+Saint Vincent and the Grenadines,0.03
+Japan,-0.12
+Georgia,-1.21
+Syria,-2.27
